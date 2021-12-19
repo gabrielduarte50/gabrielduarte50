@@ -1,12 +1,12 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá, eu sou Gabriel Duarte <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2>
+  <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47jntujuqzdkwy02ru0uti1si6w2gqga0zyxa3f71j&rid=giphy.gif&ct=g" width="50"/>
+  Olá, eu sou Gabriel Duarte 
+  <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=ecf05e47jntujuqzdkwy02ru0uti1si6w2gqga0zyxa3f71j&rid=giphy.gif&ct=g" width="50"/>
+</h2>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<p><em>Software Intern Engineer at <a href="https://www.dtidigital.com.br/">DTI Digital</a></em></p>
+
+
+[![Linkedin: gabriel-duarte](https://img.shields.io/badge/-gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-pereira-duarte-7798b3158/)](https://www.linkedin.com/in/gabriel-pereira-duarte-7798b3158//)
+
 
