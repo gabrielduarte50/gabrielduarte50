@@ -9,4 +9,15 @@
 
 [![Linkedin: gabriel-duarte](https://img.shields.io/badge/-gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-pereira-duarte-7798b3158/)](https://www.linkedin.com/in/gabriel-pereira-duarte-7798b3158//)
 
+**🐱 Techs** 
+
+> 👨‍💻 Android - Kotlin
+ > 
+> 👨‍💻 ReactJs - JavaScript/TypesSript
+ > 
+> 👨‍💻 Angular - JavaScript
+ > 
+> 👨‍💻 .Net Core - C# 
+ > 
+
 
